@@ -5,10 +5,9 @@
 [![Linkedin: nathaneharris](https://img.shields.io/badge/-nathaneharris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathaneharris/)](https://www.linkedin.com/in/nathaneharris/)
 [![GitHub PeterBParker](https://img.shields.io/github/followers/PeterBParker?label=follow&style=social)](https://github.com/PeterBParker)
 
-<br>
 <div>
     <p>
-I have a Bachelor of Science in Computer Science and a minor in math from an <a href="https://www.nsa.gov/Academics/Centers-of-Academic-Excellence/">NSA Accredited</a> <em>National Center of Academic Excellence in Cybersecurity</em>. While Python :snake:, Docker :whale:, and Apache Kafka :dash: are my main professional tools I have use to develop testing frameworks and event-driven, microservice backends for a web application valued at over twenty million dollars, I have my <a href="https://github.com/PeterBParker/OneYearNightmare">front-end pet project</a> on this Github.
+Fitness is a core value in my life, just behind my wife, good dogs, great food, and an immersive novel. Ihave a Bachelor of Science in Computer Science and a minor in math from an <a href="https://www.nsa.gov/Academics/Centers-of-Academic-Excellence/">NSA Accredited</a> <em>National Center of Academic Excellence in Cybersecurity</em>. While Python :snake:, Docker :whale:, and Apache Kafka :dash: are my main professional tools I have use to develop testing frameworks and event-driven, microservice backends for a web application valued at over twenty million dollars, I have my <a href="https://github.com/PeterBParker/OneYearNightmare">front-end pet project</a> on this Github.
 </p>
 </div>
 
