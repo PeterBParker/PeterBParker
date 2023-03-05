@@ -11,7 +11,7 @@ Fitness is a core value in my life, just behind my wife, good dogs, great food, 
 </p>
 </div>
 
-<h2>My Tools<img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40"/></h2>
+<h2>My Tools<img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="60"/></h2>
 The following tools are sorted alphabetically
 <ul>
 <li>Docker :whale:</li>
@@ -33,7 +33,7 @@ While I have written C and C++ for embedded systems, Java for business logic, Ba
     <li>Memes</li>
 </ul>
 
-<h2>Pet Projects <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="40"></h2>
+<h2>Pet Projects <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="50"></h2>
 <ul>
     <li> OneYearNightmare: A website front-end hosted on Firebase for publishing an online original graphic novel <img src="https://media.giphy.com/media/XFvN3jrFTiA7FnjA7g/giphy.gif" width="50"/></li>
     <li> <em>Coming Soon</em>: Homestore: A navigator to help grocery shoppers complete their errand in a single pass of the store.</li>
