@@ -24,12 +24,12 @@ While I have written C and C++ for embedded systems, Java for business logic, Ba
 
 <h2> What do I contribute besides software? <img src="https://media.giphy.com/media/USUIWSteF8DJoc5Snd/giphy.gif" width="40"> </h2>
 <ul>
-    <li>Multiple innovation disclosures for work done at Northrop Grumman</li>
-    <li>Educational corporate lunchtime lectures on technical topics</li>
-    <li>Mentored and assisted highschoolers committed to tackling their dream engineering side projects.</li>
-    <li>Technical manager for summer interns and co-ops.</li>
-    <li>Organized and led an introduction to fitness group in my workplace.</li>
-    <li>Memes</li>
+    <li>Multiple innovation disclosures for work done at Northrop Grumman 🧪</li>
+    <li>Educational corporate lunchtime lectures on technical topics 🎤</li>
+    <li>Mentored and assisted highschoolers committed to tackling their dream engineering side projects. 👩‍🔬</li>
+    <li>Technical manager for summer interns and co-ops. 🤓</li>
+    <li>Organized and led an introduction to fitness group in my workplace. 🏋️‍♀️</li>
+    <li>Antiquated Memes <img src="https://media.giphy.com/media/lgcUUCXgC8mEo/giphy.gif" width="50"/></li>
 </ul>
 
 <h2>Pet Projects <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="50"></h2>
