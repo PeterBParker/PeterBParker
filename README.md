@@ -11,7 +11,7 @@ Fitness is a core value in my life, just behind my wife, good dogs, great food, 
 </p>
 </div>
 
-<h2>My Tools<img src="https://media.giphy.com/media/qAwL4XhCeuJR5qDTmo/giphy.gif" width="30"/></h2>
+<h2>My Tools<img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40"/></h2>
 The following tools are sorted alphabetically
 <ul>
 <li>Docker :whale:</li>
@@ -23,7 +23,7 @@ The following tools are sorted alphabetically
 </ul>
 While I have written C and C++ for embedded systems, Java for business logic, Bash scripts for daily convenience, and worked for months on Django and Flask servers, they are not my core skills.
 
-<h2> What do I contribute besides software? <img src="https://media.giphy.com/media/USUIWSteF8DJoc5Snd/giphy.gif" width="30"> </h2>
+<h2> What do I contribute besides software? <img src="https://media.giphy.com/media/USUIWSteF8DJoc5Snd/giphy.gif" width="40"> </h2>
 <ul>
     <li>Awarded multiple innovation disclosures for work done at Northrop Grumman</li>
     <li>Presented educational private, corporate lunchtime lectures on technical topics</li>
@@ -33,7 +33,7 @@ While I have written C and C++ for embedded systems, Java for business logic, Ba
     <li>Memes</li>
 </ul>
 
-<h2>Pet Projects <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="30"></h2>
+<h2>Pet Projects <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="40"></h2>
 <ul>
     <li> OneYearNightmare: A website front-end hosted on Firebase for publishing an online original graphic novel <img src="https://media.giphy.com/media/XFvN3jrFTiA7FnjA7g/giphy.gif" width="50"/></li>
     <li> <em>Coming Soon</em>: Homestore: A navigator to help grocery shoppers complete their errand in a single pass of the store.</li>
