@@ -1,8 +1,10 @@
 <h2>Hi, I'm Nathan Harris! <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="70"/></h2>
 <div><em>Ex-Cyber Software Engineer at Northrop Grumman</em></div>
 <div><em>Looking for application development work to benefit society</em></div>
+
 [![Linkedin: nathaneharris](https://img.shields.io/badge/-nathaneharris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathaneharris/)](https://www.linkedin.com/in/nathaneharris/)
 [![GitHub PeterBParker](https://img.shields.io/github/followers/PeterBParker?label=follow&style=social)](https://github.com/PeterBParker)
+
 <br>
 <div>
     <p>
@@ -10,7 +12,7 @@ I have a Bachelor of Science in Computer Science and a minor in math from an <a 
 </p>
 </div>
 
-<h2>My Tools<img src="https://media.giphy.com/media/qAwL4XhCeuJR5qDTmo/giphy.gif" width="70"/></h2>
+<h2>My Tools<img src="https://media.giphy.com/media/qAwL4XhCeuJR5qDTmo/giphy.gif" width="50"/></h2>
 <ul>
 <li>Docker</li>
 <li>Javascript</li>
