@@ -7,12 +7,11 @@
 
 <div>
     <p>
-Fitness is a core value in my life, just behind my wife, good dogs, great food, and an immersive novel. Ihave a Bachelor of Science in Computer Science and a minor in math from an <a href="https://www.nsa.gov/Academics/Centers-of-Academic-Excellence/">NSA Accredited</a> <em>National Center of Academic Excellence in Cybersecurity</em>. While Python, Docker, and Apache Kafka are my main professional tools I have used to develop testing frameworks and event-driven, microservice backends, I have my <a href="https://github.com/PeterBParker/OneYearNightmare">front-end pet project</a> on this Github.
+Fitness is a core value in my life, just behind my wife, good dogs, great food, and an immersive novel. I have a Bachelor of Science in Computer Science and a minor in math from an <a href="https://www.nsa.gov/Academics/Centers-of-Academic-Excellence/">NSA Accredited</a> <em>National Center of Academic Excellence in Cybersecurity</em>. While Python, Docker, and Apache Kafka are my main professional tools I have used to develop testing frameworks and event-driven, microservice backends, I have my <a href="https://github.com/PeterBParker/OneYearNightmare">front-end pet project</a> on this Github.
 </p>
 </div>
 
 <h2>My Tools<img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="60"/></h2>
-The following tools are sorted alphabetically
 <ul>
 <li>Docker :whale:</li>
 <li>Javascript :coffee:</li>
@@ -21,12 +20,12 @@ The following tools are sorted alphabetically
 <li>React :microscope:</li>
 <li>Tailwind :dash:</li>
 </ul>
-While I have written C and C++ for embedded systems, Java for business logic, Bash scripts for daily convenience, and worked for months on Django and Flask servers, they are not my core skills.
+While I have written C and C++ for embedded systems, Java for business logic, Bash scripts for daily convenience, and worked for months on Django and Flask servers, but they are not my core skills.
 
 <h2> What do I contribute besides software? <img src="https://media.giphy.com/media/USUIWSteF8DJoc5Snd/giphy.gif" width="40"> </h2>
 <ul>
-    <li>Awarded multiple innovation disclosures for work done at Northrop Grumman</li>
-    <li>Presented educational private, corporate lunchtime lectures on technical topics</li>
+    <li>Multiple innovation disclosures for work done at Northrop Grumman</li>
+    <li>Educational corporate lunchtime lectures on technical topics</li>
     <li>Mentored and assisted highschoolers committed to tackling their dream engineering side projects.</li>
     <li>Technical manager for summer interns and co-ops.</li>
     <li>Organized and led an introduction to fitness group in my workplace.</li>
