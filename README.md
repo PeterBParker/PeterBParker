@@ -20,7 +20,7 @@ Fitness is a core value in my life, just behind my wife, good dogs, great food, 
 <li>React :microscope:</li>
 <li>Tailwind :dash:</li>
 </ul>
-While I have written C and C++ for embedded systems, Java for business logic, Bash scripts for daily convenience, and worked for months on Django and Flask servers, but they are not my core skills.
+While I have written C and C++ for embedded systems, Java for business logic, Bash scripts for daily convenience, and worked for months on Django and Flask servers, they are not my core skills.
 
 <h2> What do I contribute besides software? <img src="https://media.giphy.com/media/USUIWSteF8DJoc5Snd/giphy.gif" width="40"> </h2>
 <ul>
