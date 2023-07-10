@@ -1,5 +1,5 @@
 <h2>Hi, I'm Nathan Harris! <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="70"/></h2>
-<div><em>Ex-Cyber Software Engineer at Northrop Grumman</em></div>
+<div><em>Senior Software Engineer at Chameleon Consulting Group</em></div>
 <div><em>Looking for application development work to benefit society</em></div>
 
 [![Linkedin: nathaneharris](https://img.shields.io/badge/-nathaneharris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathaneharris/)](https://www.linkedin.com/in/nathaneharris/)
